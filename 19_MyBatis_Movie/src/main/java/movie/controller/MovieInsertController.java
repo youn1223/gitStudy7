@@ -38,7 +38,7 @@ public class MovieInsertController {
 		
 		if(cnt != -1) {	
 			mav.setViewName(gotoPage);
-			// kim 팀원 추가
+			// kim 브랜치 작업
 			// kim 팀원 추가
 			// kim 팀원 추가
 			// kim 브랜치 작업

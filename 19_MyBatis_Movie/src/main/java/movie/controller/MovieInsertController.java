@@ -41,8 +41,8 @@ public class MovieInsertController {
 			mav.setViewName(gotoPage);
 			// kim 브랜치 작업
 			// kim 브랜치 수정수정수정수정
-			// kim 브랜치 수정
-			// kim 브랜치 수정수정수정수정
+			// kim 브랜치 한줄 더 수정
+			// kim 브랜치 한줄 더 수정
 			// kim 브랜치 작업
 		}
 		else {

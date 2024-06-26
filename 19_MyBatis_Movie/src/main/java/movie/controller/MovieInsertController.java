@@ -41,6 +41,8 @@ public class MovieInsertController {
 			// kim 팀원 추가
 			// kim 팀원 추가
 			// kim 팀원 추가
+			// kim 브랜치 작업
+			// kim 브랜치 작업
 		}
 		else {
 			mav.setViewName(getPage);

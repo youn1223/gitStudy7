@@ -35,6 +35,7 @@ public class MovieInsertController {
 		// kim ÆÀ¿ø »èÁ¦		
 		int cnt = -1;
 		cnt = movieDao.insertMovie(movie);
+		cnt = movieDao.insertMovie(movie);
 		
 		if(cnt != -1) {	
 			mav.setViewName(gotoPage);
@@ -50,3 +51,4 @@ public class MovieInsertController {
 		return mav;
 	}
 }
+
